@@ -4,7 +4,7 @@ var stormpath = require('express-stormpath');
 var app = express();
 
 app.set('views', './views');
-app.set('view engine', 'pug');
+app.set('view engine', 'jade');
 
 app.use(stormpath.init(app, {
   expand: {
