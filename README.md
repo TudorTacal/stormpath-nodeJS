@@ -32,9 +32,9 @@ $ npm i express express-stormpath cookie-parser csurf jade forms xtend body-pars
 ## Screenshots
 
 ![First Page](https://s28.postimg.org/n0as7lrbx/Screen_Shot_2016_12_25_at_18_37_07.png)
-[Log In](https://s27.postimg.org/3ro7vbsbn/Screen_Shot_2016_12_25_at_18_37_30.png)
-[Sign Up](https://s23.postimg.org/rnd79o3q3/Screen_Shot_2016_12_25_at_18_37_38.png)
-[Edit profile](https://s29.postimg.org/ttbs2z3g7/Screen_Shot_2016_12_25_at_18_37_56.png)
+* [Log In](https://s27.postimg.org/3ro7vbsbn/Screen_Shot_2016_12_25_at_18_37_30.png)
+* [Sign Up](https://s23.postimg.org/rnd79o3q3/Screen_Shot_2016_12_25_at_18_37_38.png)
+* [Edit profile](https://s29.postimg.org/ttbs2z3g7/Screen_Shot_2016_12_25_at_18_37_56.png)
 
 ## Contacts
 
