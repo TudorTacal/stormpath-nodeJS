@@ -5,7 +5,19 @@ This project was done whilst at Makers Academy coding bootcamp, during the Chris
 It represents the implementation of a simple and easy to use user management system. Stormpath is an API service that allows developers to create, edit, and securely store
 user accounts and user account data, and connect them with one or multiple applications.  
 
-I enjoyed this project because it gave me a glimpse into NodeJS through ExpressJS and other affiliate technologies that weren't covered at Makers Academy. 
+I enjoyed this project because it gave me a glimpse into NodeJS through ExpressJS and other affiliate technologies that weren't covered at Makers Academy.
+
+## Installation and use
+
+1. Clone or download the repository.
+2. Install the following libraries:
+
+```
+$ npm i express express-stormpath cookie-parser csurf jade forms xtend body-parser --save
+```
+
+3. Run ```node server.js```
+4. Open ```localhost:3000```
 
 ## Technologies used
 
